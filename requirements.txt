@@ -7,3 +7,4 @@ gunicorn==20.1.0
 Pillow==9.5.0
 psycopg2-binary==2.9.6
 rest-framework-simplejwt==0.0.2
+whitenoise==6.4.0
