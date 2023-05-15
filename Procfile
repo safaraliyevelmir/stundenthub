@@ -1,0 +1,1 @@
+web: socailapp_settings.wsgi
