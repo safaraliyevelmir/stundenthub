@@ -1,1 +1,1 @@
-web: socailapp_settings.wsgi
+web: gunicorn  socailapp_settings.wsgi
